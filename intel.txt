@@ -1,0 +1,4 @@
+# GOAT COMMAND TO CREATE VIRTUAL ENVIRONMENT !!!
+
+python3 -m venv venv_name
+
